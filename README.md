@@ -105,16 +105,3 @@ Python data engineering, GeoPandas and Shapely, pyproj and coordinate systems,
 PostGIS and spatial indexing, PyQGIS automation, and clean reproducible project
 structure.
 
-## Honest notes
-
-The region coordinates are approximate, at city level. Cloud providers do not
-publish exact data center coordinates, so these are well known location
-approximations (us-east-1 near Ashburn, eu-west-1 near Dublin, and so on). That
-is fine for distance and proximity analysis, where city level accuracy is
-plenty. It would not be fine for anything claiming meter level precision, and
-the code does not claim that.
-
-If someone asks, the truthful one line version of this project is: "a
-reproducible multi-cloud region proximity pipeline in Python, GeoPandas, and
-PostGIS, with QGIS used for automated map export." That is the level it
-actually is.
