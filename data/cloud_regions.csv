@@ -1,0 +1,31 @@
+provider,region_code,region_name,location,country,latitude,longitude
+AWS,us-east-1,US East (N. Virginia),Ashburn,US,38.95,-77.45
+AWS,us-east-2,US East (Ohio),Columbus,US,40.00,-83.00
+AWS,us-west-1,US West (N. California),San Jose,US,37.35,-121.96
+AWS,us-west-2,US West (Oregon),Boardman,US,45.87,-119.69
+AWS,eu-west-1,EU (Ireland),Dublin,IE,53.41,-8.24
+AWS,eu-central-1,EU (Frankfurt),Frankfurt,DE,50.11,8.68
+AWS,ap-southeast-1,Asia Pacific (Singapore),Singapore,SG,1.35,103.82
+AWS,ap-northeast-1,Asia Pacific (Tokyo),Tokyo,JP,35.69,139.69
+AWS,ap-south-1,Asia Pacific (Mumbai),Mumbai,IN,19.08,72.88
+AWS,sa-east-1,South America (Sao Paulo),Sao Paulo,BR,-23.55,-46.63
+GCP,us-central1,US Central (Iowa),Council Bluffs,US,41.26,-95.86
+GCP,us-east1,US East (South Carolina),Moncks Corner,US,33.20,-79.99
+GCP,us-west1,US West (Oregon),The Dalles,US,45.59,-121.18
+GCP,europe-west1,Europe West (Belgium),Saint Ghislain,BE,50.45,3.82
+GCP,europe-west2,Europe West (London),London,GB,51.51,-0.13
+GCP,asia-east1,Asia East (Taiwan),Changhua,TW,24.07,120.54
+GCP,asia-northeast1,Asia Northeast (Tokyo),Tokyo,JP,35.69,139.69
+GCP,asia-south1,Asia South (Mumbai),Mumbai,IN,19.08,72.88
+GCP,southamerica-east1,South America East (Sao Paulo),Sao Paulo,BR,-23.55,-46.63
+GCP,australia-southeast1,Australia Southeast (Sydney),Sydney,AU,-33.87,151.21
+Azure,eastus,East US (Virginia),Richmond,US,37.37,-79.82
+Azure,eastus2,East US 2 (Virginia),Boydton,US,36.85,-78.00
+Azure,westus,West US (California),San Francisco,US,37.78,-122.42
+Azure,westus2,West US 2 (Washington),Quincy,US,47.23,-119.85
+Azure,northeurope,North Europe (Ireland),Dublin,IE,53.34,-6.27
+Azure,westeurope,West Europe (Netherlands),Amsterdam,NL,52.37,4.90
+Azure,southeastasia,Southeast Asia (Singapore),Singapore,SG,1.35,103.82
+Azure,japaneast,Japan East (Tokyo),Tokyo,JP,35.69,139.69
+Azure,centralindia,Central India (Pune),Pune,IN,18.52,73.86
+Azure,brazilsouth,Brazil South (Sao Paulo),Sao Paulo,BR,-23.55,-46.63
